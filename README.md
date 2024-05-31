@@ -1,4 +1,4 @@
-# cv_martajimenez
+# Marta Jiménez
 Curriculum vitae
 
 ![Instagram](/images/insta.png)
