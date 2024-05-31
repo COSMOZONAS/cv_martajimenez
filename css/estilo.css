@@ -1,0 +1,5 @@
+img {
+    display: block; /* Hace que la imagen sea un bloque para aplicar alineación de texto */
+    margin-left: auto; /* Centra la imagen al margen izquierdo */
+    margin-right: auto; /* Mantiene la imagen centrada */
+  }
