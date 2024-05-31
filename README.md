@@ -1,2 +1,2 @@
 # cv_martajimenez
-Curriculum
+Curriculum vitae
